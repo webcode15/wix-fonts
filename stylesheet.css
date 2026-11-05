@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed Bricolage Grotesque 48pt Condensed';
+    src: url('BricolageGrotesque48ptCondensed-Bold.woff2') format('woff2'),
+        url('BricolageGrotesque48ptCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('BricolageGrotesque48ptCondensed-Light.woff2') format('woff2'),
+        url('BricolageGrotesque48ptCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('BricolageGrotesque48ptCondensed-Medium.woff2') format('woff2'),
+        url('BricolageGrotesque48ptCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('BricolageGrotesque48ptCondensed-Regular.woff2') format('woff2'),
+        url('BricolageGrotesque48ptCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('BricolageGrotesque48ptCondensed-SemiBold.woff2') format('woff2'),
+        url('BricolageGrotesque48ptCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
